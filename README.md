@@ -1,7 +1,6 @@
-# 🇷🇺 Miniblox Russian Chat
+# 🇷🇺 Miniblox Language Translator inChat
 
-Simple **transliteration script** for Miniblox.  
-Automatically converts Latin characters into Cyrillic when sending chat messages.
+Simple **transliteration script** for Miniblox.
 
 No APIs. No requests. No external dependencies.  
 Just fast client-side character mapping.
@@ -36,12 +35,7 @@ You’ll need one of these browser extensions:
 4. Save
 5. Visit: https://miniblox.io/
 
-You should see in the browser console:
-```
-[RU CHAT] Russian chat loaded
-[RU CHAT] ✅ Russian chat enabled
-```
 
-👤 Author
+## 👤 Author
 
-Made by TheM1ddleM1n
+> Made by TheM1ddleM1n
