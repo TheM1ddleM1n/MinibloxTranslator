@@ -4,6 +4,7 @@
 // @version      2.0
 // @description  Ts is tuff 🪙
 // @match        *://miniblox.io/*
+// @author       TheM1ddleM1n
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
